@@ -9,3 +9,18 @@
   <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=xaristeidou&show_icons=true&theme=dark" alt="Github stats"></img>
   <img width="50%" src="https://ghstats.onuralpsezer.com/?user=xaristeidou&theme=dark&hide_border=False" alt="Contributions"></img>
 </p>
+
+
+<h3 align="left">Programming languages:</h3>
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
+</p>
+
+
+<h3 align="left">Frameworks:</h3>
+<p> 
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
+  <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img>
+</p>
