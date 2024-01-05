@@ -3,6 +3,8 @@
     <a href="https://www.upwork.com/freelancers/christoforosa"><img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 </p>
 
+Hello👋!! I am Christoforos, a developer with moderate experience in Python. My knowledge lands on deep & machine learning, data analysis. Mostly, I create simple Computer Vision applications and projects influenced from real-world problems. I am at the point of learning to build custom models using PyTorch for image classificiation, detection, segmentation tasks.
+
 <br>
 <br>
 <p align="center">
