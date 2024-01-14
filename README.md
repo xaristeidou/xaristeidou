@@ -25,4 +25,5 @@ Hello👋!! I am Christoforos, a developer with moderate experience in Python. M
   <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
   <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
 </p>
