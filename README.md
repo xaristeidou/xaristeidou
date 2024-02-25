@@ -8,7 +8,7 @@ Hello👋!! I am Christoforos, a developer with moderate experience in Python. M
 <br>
 <br>
 <p align="center">
- # <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=xaristeidou&show_icons=true&theme=dark" alt="Github stats"></img>
+ <!-- <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=xaristeidou&show_icons=true&theme=dark" alt="Github stats"></img> -->
   <img width="50%" src="https://ghstats.onuralpsezer.com/?user=xaristeidou&theme=dark&hide_border=False" alt="Contributions"></img>
 </p>
 
