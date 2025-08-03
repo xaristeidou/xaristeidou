@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/christoforos-aristeidou/"><img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a> <br>
-    <a href="https://www.upwork.com/freelancers/christoforosa"><img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" style="width: 70px;"></a>
+    <a href="https://www.upwork.com/freelancers/christoforosa"><img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" style="width: 80px;"></a>
 </p>
 
 Hello👋!! I am Christoforos, a developer with moderate experience in Python. My knowledge lands on deep & machine learning, data analysis. Mostly, I create simple Computer Vision applications and projects influenced from real-world problems. I am at the point of learning to build custom models using PyTorch for image classificiation, detection, segmentation tasks.
@@ -31,7 +31,7 @@ Hello👋!! I am Christoforos, a developer with moderate experience in Python. M
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></img>
   <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="width: 100px;"></img>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="width: 70px;"></img>
-  <img alt="Unity" src="Https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"></img>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"></img>
   <img alt="ROS" src="https://img.shields.io/ros/v/noetic/ros"></img>
 </p>
 
