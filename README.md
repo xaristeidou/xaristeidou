@@ -18,6 +18,7 @@ Hello👋!! I am Christoforos, a developer with moderate experience in Python. M
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></img>
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white"></img>
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></img>
+    <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1"></img>
 </p>
 
 
@@ -33,6 +34,8 @@ Hello👋!! I am Christoforos, a developer with moderate experience in Python. M
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="width: 70px;"></img>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"></img>
   <img alt="ROS" src="https://img.shields.io/ros/v/noetic/ros"></img>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></img>
+  
 </p>
 
 <h3 align="left">Programs:</h3>
